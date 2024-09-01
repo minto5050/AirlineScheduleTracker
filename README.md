@@ -26,7 +26,7 @@ BULK INSERT
  ## Database design
 
 ### Relationships
-![[./docs/Pasted image 20240901225517.png]]
+![[docs/Pasted image 20240901225517.png]]
 
 ### Schema
 
@@ -116,6 +116,6 @@ GO
 
 The project is following Robert C. Martin's clean code concepts and is designed based on [Jason Taylor's implementation of the same](https://github.com/jasontaylordev/CleanArchitecture)
 
-![[./docs/Pasted image 20240901230553.png]]
+![[docs/Pasted image 20240901230553.png]]
 
 ,
