@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleUI": {
+      "commandName": "Project",
+      "commandLineArgs": "-a 1 -s 2018-01-01 -e 2018-01-15 -v diag"
+    }
+  }
+}

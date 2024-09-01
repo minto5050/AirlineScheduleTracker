@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost;Initial Catalog=AirlineScheduleDb;Persist Security Info=True;User ID=sa;Password=MintoIssac2;Trust Server Certificate=True"
+  }
+}
